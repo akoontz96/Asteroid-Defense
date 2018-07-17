@@ -1,1 +1,1 @@
-# test
+# Asteroid Defense game for Android
